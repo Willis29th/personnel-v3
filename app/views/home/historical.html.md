@@ -1,49 +1,12 @@
 <%= content_for :page_title, 'Historical 29th' %>
 
-June 6, 1944
 
-6:30 AM
+The 29th Infantry Division, nicknamed "The Blue and Gray Division", was originally created in 1917 as part of the American Expeditionary Force sent to France during World War I. Since then, the unit has proven itself in the fires of war, participating in conflicts such as World War II, the War in Afghanistan, the invasion of Iraq, the War on Terror, as well as peacekeeping operations for the United Nations.
 
-Normandy, France
+Although the unit did not yet exist at the time of the American Civil War, it's distinctive Combat Service Identification Badge, a blue and gray Ying Yang or taijitu, symbolically represents Confederate and Union soldiers fighting side by side. This is appropriate, as the 29th Infantry Division is a National Guard unit composed of volunteers from Virginia, Maryland, Kentucky, North and South Carolina, and West Virginia- all states that were heavily contested by both sides during the Civil War. The badge also serves to represent eternal life and the relentless nature of the 29th. Along with this, our Battalion is based upon the 116th Infantry Regiment and their motto, “Ever Forward” - never give up.
 
-Omaha Beach
+The 29th’s most recognized feat during their long and decorated history was being one of the few units selected to participate in the amphibious landings in Normandy on D-Day. Assigned to take Utah Beach, the 29th Infantry Division exemplified the quote "uncommon valor was a common virtue" in this bloody assault where 2,500 lives would be lost in a single day, almost equating the total number of casualties of American service members during the 19 year-long conflict in Afghanistan. Despite these horrific odds, the 29th would ultimately prevail, and later go on to liberate France from Nazi occupation, being among those dubbed "The Greatest Generation" for their grit and hardship during the world's deadliest conflict.
 
-The first wave of the Allied invasion of Europe hits France’s northern shores,
-and are met with unexpectedly harsh resistance. Maschinengewehr-42s rip the
-air, sending more than 1200 rounds per minute toward the Allies. Blasts from
-German mortars and artillery create a deafening thunder across the sandy
-battlefield. And at the spearhead of the invasion of Omaha Beach: the 29th
-Infantry Division of the U.S. Army.
+The 29th Infantry Division is still presently active in a National Guard, federalized unit, and ceremonial capacity, seeing soldiers serving in both the United States and abroad. These soldiers continue to carry on the legacy and traditions of the brave men who came before, and in doing so, keep alive the memories of those whose sacrifice was measured in full.
 
-In what is widely considered one of the toughest, and bloodiest, invasions in
-America history, the 29th ID and their comrades pushed forward to crush the
-German defenses. Less than three days after their triumphant victory on Omaha
-Beach, the 29th Infantry Division was called upon to advance deeper into enemy
-territory and capture the town of Isigny. Advancing through the French
-hedgerows, the 29th ID proceeded to retake multiple key cities throughout
-Northern France, liberating the country from Nazi tyranny.
-
-The war took the 29th through four campaigns: Normandy, Northern France,
-Rhineland, and Central Europe; all of which pushed back the Nazi offensive, and
-paved the way for the Allied advance into Germany. During their tours, the 29th
-was recognized for their brave, valiant efforts by being awarded 40
-Distinguished Service Cross, 11 Legion of Merit, 856 Silver Star, 25 Soldier
-Medal, 5,954 Bronze Star, and 176 Air Medal. During their campaigns, the unit
-captured nearly 39,000 Prisoners of War, a key objective in negotiating with
-enemy states.
-
-“The Blue and Gray”, as the 29th ID is often referred to, comes from the unit’s
-seal, or insignia. A taijitu, or “yin yang”, of half blue and half gray
-represents the composition of the unit; which is composed of men from both the
-North (Union Blue) and the South (Confederate Gray). It represents eternal
-life, and the relentless drive of the 29th Infantry Division. The unit’s
-motivational saying is “Ever Forward”, which coincides with the idea of the
-insignia: Never giving up, never surrendering, always ahead.
-
-The 29th Infantry Division is one of the most recognized units to fight during
-World War II on the side of the Allied Forces. Their bravery, tenacity, and
-brotherhood, is what encompasses the core idea of the United States Military. A
-soldier in the 29th Infantry Division is a proud one; always ready to fight,
-always ready to lead the way.
-
-29, Let’s Go!
+To date, soldiers of the 29th Infantry Divison have been awarded 5 Medals of Honor, 44 Distinguished Service Crosses, 1 Distinguished Service Medal, 854 Silver Stars, 17 Legions of Merit, 24 Soldier's Medals, 6,308 Bronze Stars, and 176 Air Medals. These awards highlight the bravery, tenacity, and brotherhood of the soldiers of the 29th ID, and exemplify the core values of the United States Army.
